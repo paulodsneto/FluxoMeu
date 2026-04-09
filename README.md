@@ -38,6 +38,6 @@ Para rodar este projeto, você só precisa do Node.js instalado no seu computado
 5. Abra o aplicativo da câmera no seu iPhone (ou o app do Expo Go no Android) e leia o QR Code que aparecerá no terminal. O app deve abrir normalmente. Caso não seja possível utilizar o celular use a versão Web apertando 'w' no terminal após iniciar o servidor do Expo.
 
 #### To do
-```bash
-Lógica de predição 28 dias pra frente do dia inputado pelo usuário (janela de fertilidade)
-Lógica para marcar o dia que houve relação sexual
+
+>Lógica de predição 28 dias pra frente do dia inputado pelo usuário (janela de fertilidade)
+>Lógica para marcar o dia que houve relação sexual
