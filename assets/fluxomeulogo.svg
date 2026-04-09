@@ -1,4 +1,4 @@
-    <Svg viewBox="0 0 180 180" width={120} height={120}>
+<Svg viewBox="0 0 180 180" width={120} height={120}>
       <Defs>
         <LinearGradient id="fluxoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
           <Stop offset="0%" stopColor="#FF6B81" />
