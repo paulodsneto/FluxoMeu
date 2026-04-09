@@ -23,21 +23,21 @@ Para rodar este projeto, você só precisa do Node.js instalado no seu computado
 ### Instalação e Execução
 
 1. Clone este repositório:
-   ```bash
+```bash
    git clone [https://github.com/paulodsneto/FluxoMeu](https://github.com/paulodsneto/FluxoMeu)
-
+```
 2. Entre na pasta do projeto:
 ```bash 
     cd FluxoMeu
-
+```
 3. Instale as dependências definidas no package.json: 
 ```bash
     npm install 
-
+```
 4. Inicie o servidor do Expo limpando o cache para minimizar a chance de ocorrer problemas:
 ```bash
     npx expo start -c
-
+```
 5. Abra o aplicativo da câmera no seu iPhone (ou o app do Expo Go no Android) e leia o QR Code que aparecerá no terminal. O app deve abrir normalmente. Caso não seja possível utilizar o celular use a versão Web apertando 'w' no terminal após iniciar o servidor do Expo.
 
 #### To do
